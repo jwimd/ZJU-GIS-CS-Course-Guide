@@ -1,0 +1,293 @@
+11697#Fort Lauderdale, FL
+12441#Jackson, WY
+14122#Pittsburgh, PA
+10821#Baltimore, MD
+11057#Charlotte, NC
+11618#Newark, NJ
+14771#San Francisco, CA
+11695#Flagstaff, AZ
+11109#Colorado Springs, CO
+14635#Fort Myers, FL
+12173#Honolulu, HI
+11298#Dallas/Fort Worth, TX
+12339#Indianapolis, IN
+11042#Cleveland, OH
+14747#Seattle, WA
+15841#Wrangell, AK
+10397#Atlanta, GA
+11292#Denver, CO
+14869#Salt Lake City, UT
+11278#Washington, DC
+13244#Memphis, TN
+11865#Gillette, WY
+10874#Akron, OH
+14679#San Diego, CA
+10165#Adak Island, AK
+13930#Chicago, IL
+13487#Minneapolis, MN
+10245#King Salmon, AK
+13204#Orlando, FL
+10713#Boise, ID
+14908#Santa Ana, CA
+14108#Peoria, IL
+11066#Columbus, OH
+11617#New Bern/Morehead/Beaufort, NC
+11884#Spokane, WA
+12266#Houston, TX
+14307#Providence, RI
+13931#Norfolk, VA
+12264#Washington, DC
+10529#Hartford, CT
+13296#Manchester, NH
+10792#Buffalo, NY
+14057#Portland, OR
+10721#Boston, MA
+14027#West Palm Beach/Palm Beach, FL
+14107#Phoenix, AZ
+10423#Austin, TX
+10930#Crescent City, CA
+13424#Modesto, CA
+13232#Chicago, IL
+14492#Raleigh/Durham, NC
+15412#Knoxville, TN
+12478#New York, NY
+10693#Nashville, TN
+11612#Evansville, IN
+13061#Laredo, TX
+13303#Miami, FL
+11146#Charleston/Dunbar, WV
+14570#Reno, NV
+10257#Albany, NY
+14100#Philadelphia, PA
+10868#Columbia, SC
+15016#St. Louis, MO
+10994#Charleston, SC
+13871#Omaha, NE
+14709#Deadhorse, AK
+11996#Greer, SC
+11638#Fresno, CA
+11003#Cedar Rapids/Iowa City, IA
+12915#Lake Charles, LA
+12363#El Centro, CA
+10434#Scranton/Wilkes-Barre, PA
+14193#Pensacola, FL
+11097#Cody, WY
+12889#Las Vegas, NV
+13198#Kansas City, MO
+12953#New York, NY
+12448#Jackson/Vicksburg, MS
+12892#Los Angeles, CA
+14986#Sarasota/Bradenton, FL
+11624#Key West, FL
+14814#Shreveport, LA
+15919#Fayetteville, AR
+12945#Lexington, KY
+13422#Mobile, AL
+11433#Detroit, MI
+12003#Great Falls, MT
+12451#Jacksonville, FL
+11503#Eagle, CO
+13796#Oakland, CA
+15376#Tucson, AZ
+10732#Aguadilla, PR
+14262#Palm Springs, CA
+14588#Roswell, NM
+12992#Little Rock, AR
+11140#Corpus Christi, TX
+12954#Long Beach, CA
+12758#Kona, HI
+13577#Myrtle Beach, SC
+13970#Kotzebue, AK
+15096#Syracuse, NY
+14843#San Juan, PR
+11986#Grand Rapids, MI
+13121#Lewisburg, WV
+13851#Oklahoma City, OK
+14828#Sitka, AK
+10140#Albuquerque, NM
+14576#Rochester, NY
+13029#Lincoln, NE
+11953#Gainesville, FL
+14698#San Luis Obispo, CA
+13342#Milwaukee, WI
+14683#San Antonio, TX
+10154#Nantucket, MA
+10185#Alexandria, LA
+10620#Billings, MT
+12191#Houston, TX
+12323#Wilmington, NC
+11973#Gulfport/Biloxi, MS
+14730#Louisville, KY
+13891#Ontario, CA
+12402#Hilo, HI
+10643#Branson, MO
+14893#Sacramento, CA
+15304#Tampa, FL
+13264#Medford, OR
+14783#Springfield, MO
+11980#Grand Island, NE
+11540#El Paso, TX
+11775#Sioux Falls, SD
+11630#Fairbanks, AK
+13485#Madison, WI
+10849#Bozeman, MT
+11977#Green Bay, WI
+11995#Greensboro/High Point, NC
+10469#Kalamazoo, MI
+11193#Cincinnati, OH
+10299#Anchorage, AK
+13230#Harrisburg, PA
+10599#Birmingham, AL
+10800#Burbank, CA
+14952#Springfield, IL
+13495#New Orleans, LA
+14831#San Jose, CA
+11267#Dayton, OH
+13290#Manhattan/Ft. Riley, KS
+14321#Portland, ME
+11111#Columbia, MO
+12197#White Plains, NY
+12217#Huntsville, AL
+15370#Tulsa, OK
+12391#Islip, NY
+11259#Dallas, TX
+11415#Del Rio, TX
+14252#Pasco/Kennewick/Richland, WA
+12278#Wichita, KS
+15249#Tallahassee, FL
+11413#Durango, CO
+13076#La Crosse, WI
+13158#Midland/Odessa, TX
+15991#Yakutat, AK
+14685#Savannah, GA
+14574#Roanoke, VA
+12891#Lawton/Fort Sill, OK
+13459#Marquette, MI
+14524#Richmond, VA
+11336#Dillingham, AK
+15380#Traverse City, MI
+11921#Grand Junction, CO
+10208#Augusta, GA
+11122#Casper, WY
+11150#Columbus, GA
+10157#Arcata/Eureka, CA
+10279#Amarillo, TX
+15024#Charlotte Amalie, VI
+11481#Panama City, FL
+11423#Des Moines, IA
+15411#Tyler, TX
+10581#Bangor, ME
+12896#Lubbock, TX
+14689#Santa Barbara, CA
+10685#Bloomington/Normal, IL
+11823#Fort Wayne, IN
+13367#Moline, IL
+13830#Kahului, HI
+12016#Guam, TT
+10666#Bellingham, WA
+10781#Baton Rouge, LA
+13024#Klamath Falls, OR
+13277#Montgomery, AL
+10779#Butte, MT
+12094#Hayden, CO
+15041#Sun Valley/Hailey/Ketchum, ID
+13486#Missoula, MT
+11002#Chico, CA
+12819#Ketchikan, AK
+11603#Eugene, OR
+12982#Lihue, HI
+11648#Kalispell, MT
+10372#Aspen, CO
+11721#Flint, MI
+12012#Gunnison, CO
+15048#Sioux City, IA
+11049#College Station/Bryan, TX
+10731#Brunswick, GA
+15624#Valparaiso, FL
+14696#South Bend, IN
+14256#Petersburg, AK
+11471#Eau Claire, WI
+15027#Christiansted, VI
+11982#Killeen, TX
+10431#Asheville, NC
+11867#Garden City, KS
+12951#Lafayette, LA
+15070#Newburgh/Poughkeepsie, NY
+11337#Duluth, MN
+14098#Newport News/Williamsburg, VA
+10785#Burlington, VT
+11308#Dothan, AL
+14489#Bend/Redmond, OR
+10747#Brownsville, TX
+16218#Yuma, AZ
+14674#Santa Fe, NM
+13256#Mission/McAllen/Edinburg, TX
+12156#Helena, MT
+10408#Appleton, WI
+10627#Bismarck/Mandan, ND
+10754#Barrow, AK
+10980#Chattanooga, TN
+11905#Longview, TX
+13541#Marthas Vineyard, MA
+12511#Joplin, MO
+10631#Bemidji, MN
+12436#Inyokern, CA
+13964#North Bend/Coos Bay, OR
+13377#Monroe, LA
+14633#Rochester, MN
+11537#Elmira/Corning, NY
+13127#Lewiston, ID
+14960#Wichita Falls, TX
+11637#Fargo, ND
+10155#Waco, TX
+10361#Watertown, NY
+10135#Allentown/Bethlehem/Easton, PA
+13344#Muskegon, MI
+14113#Pocatello, ID
+12884#Lansing, MI
+10268#Waterloo, IA
+13433#Minot, ND
+10926#Cordova, AK
+12523#Juneau, AK
+13476#Monterey, CA
+11203#Mosinee, WI
+13184#Saginaw/Bay City/Midland, MI
+12206#Harlingen/San Benito, TX
+15323#Bristol/Johnson City/Kingsport, TN
+11778#Fort Smith, AR
+14794#St. George, UT
+11041#Carlsbad, CA
+11525#Elko, NV
+10551#Bethel, AK
+14543#Rock Springs, WY
+13241#Meridian, MS
+10561#Bakersfield, CA
+14905#Santa Maria, CA
+10990#Charlottesville, VA
+13873#Nome, AK
+14487#Redding, CA
+14457#Rapid City, SD
+11252#Daytona Beach, FL
+13502#Montrose/Delta, CO
+12280#Idaho Falls, ID
+15401#Texarkana, AR
+10918#Cedar City, UT
+13795#Jacksonville/Camp Lejeune, NC
+12177#Hobbs, NM
+14254#Ponce, PR
+15897#West Yellowstone, MT
+15607#Valdosta, GA
+12007#Columbus, MS
+11067#Champaign/Urbana, IL
+14006#Paducah, KY
+14842#San Angelo, TX
+11997#Gustavus, AK
+10170#Kodiak, AK
+11076#Hancock/Houghton, MI
+10146#Albany, GA
+15389#Twin Falls, ID
+11898#Grand Forks, ND
+10141#Aberdeen, SD
+10136#Abilene, TX
+13360#Melbourne, FL
+11641#Fayetteville, NC

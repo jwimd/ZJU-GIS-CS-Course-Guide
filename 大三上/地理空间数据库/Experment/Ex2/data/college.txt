@@ -1,0 +1,4 @@
+Stanford|CA|15000
+Berkeley|CA|36000
+MIT|MA|10000
+Carnegie Mellon|PA|11500

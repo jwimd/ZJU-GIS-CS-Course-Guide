@@ -1,0 +1,20 @@
+123|Stanford|CS|Y
+123|Berkeley|CS|Y
+234|Berkeley|biology|Y
+678|Stanford|history|Y
+987|Stanford|CS|Y
+987|Berkeley|CS|Y
+765|Stanford|history|Y
+765|Cornell|history|Y
+765|Cornell|psychology|Y
+543|MIT|CS|Y
+321|MIT|history|Y
+321|MIT|psychology|Y
+456|Carnegie Mellon|CS|Y
+654|Carnegie Mellon|CS|Y
+432|Carnegie Mellon|CS|Y
+567|Carnegie Mellon|economics|Y
+789|Carnegie Mellon|economics|Y
+123|Stanford|CSE|Y
+123|Cornell|CSE|Y
+123|Carnegie Mellon|CSE|Y
