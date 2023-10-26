@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "syscall.h": "c",
+    "stdio.h": "c",
+    "cstring": "c",
+    "types.h": "c",
+    "elf.h": "c",
+    "vm.h": "c",
+    "random": "c"
+  }
+}

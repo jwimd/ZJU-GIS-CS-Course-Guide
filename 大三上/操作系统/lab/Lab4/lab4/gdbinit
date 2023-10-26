@@ -1,0 +1,8 @@
+#layout asm
+set disassemble-next-line on
+#display *(0xffffffe000200000)
+b proc.c:75
+b proc.c:76
+b _traps
+target remote : 1234
+c

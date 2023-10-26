@@ -1,0 +1,14 @@
+#layout asm
+set disassemble-next-line on
+#b __dummy
+#b entry.S:177
+#b _traps
+b proc.c:104
+#b proc.c:66
+#b mm.c:216
+#b vm.c:112
+#b vm.c:76
+#display *(0xffffffe0002d8000 + 511 * 8)
+#b load_program
+target remote : 1234
+c
